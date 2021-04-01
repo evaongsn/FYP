@@ -1,0 +1,9 @@
+<a-box position="0 0 0" rotation="0 -45 0" color="blue" width="0.02" height="0.1"></a-box>
+      <a-box position="-0.5 -1 -5" rotation="0 -45 0" color="blue" width="0.02" height="0.1"></a-box>
+      <a-box position="0.5 1 -5" rotation="-50 45 0" color="blue" width="0.02" height="0.1"></a-box>
+      <a-box position="0.4 -0.5 -5" rotation="90 45 0" color="blue" width="0.01" height="0.2"></a-box>
+      <a-box position="-0.4 -0.5 -5" rotation="90 45 0" color="blue" width="0.01" height="0.2"></a-box>
+      <a-sphere position="0 1.65 -5" radius="0.5" color="#FFF8DC"></a-sphere>
+      <a-cylinder position="0 0.45 -5" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+      <a-plane position="0 -1 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
